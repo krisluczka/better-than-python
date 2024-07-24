@@ -11,10 +11,6 @@ int main( int argc, char* argv[] ) {
     if ( argc > 1 )
         filename = argv[1];
 
-    // if not, ask for it
-    else 
-        std::cout << "Filename >> "; std::cin >> filename;
-
     // open the file
     std::ifstream input_file( filename );
     if ( !input_file ) {
