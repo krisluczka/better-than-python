@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "better-than-python", "better-than-python\better-than-python.vcxproj", "{054CE5A4-2467-4141-B22F-2A5159185747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Debug|x64.ActiveCfg = Debug|x64
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Debug|x64.Build.0 = Debug|x64
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Debug|x86.ActiveCfg = Debug|Win32
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Debug|x86.Build.0 = Debug|Win32
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Release|x64.ActiveCfg = Release|x64
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Release|x64.Build.0 = Release|x64
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Release|x86.ActiveCfg = Release|Win32
+		{054CE5A4-2467-4141-B22F-2A5159185747}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043C606D-1F97-438B-831B-9A71EF3D3CBB}
+	EndGlobalSection
+EndGlobal
